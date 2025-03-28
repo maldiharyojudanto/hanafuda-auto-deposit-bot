@@ -20,5 +20,6 @@ https://github.com/user-attachments/assets/5cfa783c-d93b-487e-9888-cb3720d9737c
 - Open terminal
 - Command:
   > npm install
+
   > node index
 - Done
